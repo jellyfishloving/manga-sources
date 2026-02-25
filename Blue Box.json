@@ -6,7 +6,7 @@
   "cover": "https://files.catbox.moe/sfbaw5.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Chapter 1",
       "volume": "1",
       "last_updated": "1772042009",
       "groups": {
@@ -70,6 +70,42 @@
           "https://files.catbox.moe/s638nx.png",
           "https://files.catbox.moe/4id7t4.png",
           "https://files.catbox.moe/82as8v.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1772042174",
+      "groups": {
+        "1r0n": [
+          "https://files.catbox.moe/bp2xdn.png",
+          "https://files.catbox.moe/i6ibmw.png",
+          "https://files.catbox.moe/g1h9jb.png",
+          "https://files.catbox.moe/0f6ie8.png",
+          "https://files.catbox.moe/nhjxcv.png",
+          "https://files.catbox.moe/19147q.png",
+          "https://files.catbox.moe/0tzysp.png",
+          "https://files.catbox.moe/r4k0ju.png",
+          "https://files.catbox.moe/8gelqh.png",
+          "https://files.catbox.moe/u8awig.png",
+          "https://files.catbox.moe/a879a8.png",
+          "https://files.catbox.moe/g5ato7.png",
+          "https://files.catbox.moe/yz1drq.png",
+          "https://files.catbox.moe/6faui7.png",
+          "https://files.catbox.moe/obljw7.png",
+          "https://files.catbox.moe/xpp6wj.png",
+          "https://files.catbox.moe/b7bodb.png",
+          "https://files.catbox.moe/y5eyvx.png",
+          "https://files.catbox.moe/uqvek6.png",
+          "https://files.catbox.moe/hvq9w4.png",
+          "https://files.catbox.moe/eien0m.png",
+          "https://files.catbox.moe/24uw0q.png",
+          "https://files.catbox.moe/xo3cy8.png",
+          "https://files.catbox.moe/5ty7bt.png",
+          "https://files.catbox.moe/wwma5g.png",
+          "https://files.catbox.moe/bbpn7n.png",
+          "https://files.catbox.moe/vox5zr.png"
         ]
       }
     }
